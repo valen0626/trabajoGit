@@ -1,3 +1,0 @@
-Lo visto en la clase anterior fue: aprender sobre git, como configurar un usuario y crear un
-repositorio, hacer commits, trabajar con ramas, eliminar archivos y cambiarles el nombre.
-hacer un archivo que ignora los archivos que se deseen 
