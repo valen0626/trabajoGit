@@ -1,0 +1,4 @@
+En el dia de hoy los temas tratados son: continuar con el uso de git y realizar un taller 
+para poner en practica lo visto en clase.
+Un sistema de control de versiones es la gestión de los cambios realizados en una carpeta 
+de archivos 

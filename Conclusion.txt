@@ -1,0 +1,4 @@
+En conclusion, git es una herramienta muy útil para los desarrolladores ya que nos ayuda 
+a trabajar mucho mejor en equipo y soluciona muchos problemas, git tiene muchos comandos y me gusta 
+que en la clase estamos aprendiendo bástante de sus usos y varios comandos muy útiles para el manejo 
+de proyectos y/o archivos
