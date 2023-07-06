@@ -2,3 +2,7 @@ En el dia de hoy los temas tratados son: continuar con el uso de git y realizar 
 para poner en practica lo visto en clase.
 Un sistema de control de versiones es la gestión de los cambios realizados en una carpeta 
 de archivos 
+ramas
+Como ignorar archivos para no ser comprometidos en el 
+área de trabajo.
+Cambiar de ramas y volver a la principal
